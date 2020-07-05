@@ -1,5 +1,2 @@
 
-npm install -S git+ssh://git@git.n.xiaomi.com:YouPin_CM_Pub/form-j.git
-
-
-https://wiki.n.miui.com/pages/viewpage.action?pageId=398617381
+npm install -S git+ssh://git@github.com:jzxznb/form-j.git
